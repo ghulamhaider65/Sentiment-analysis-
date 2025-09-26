@@ -1,0 +1,19 @@
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+
+# NLP
+transformers
+datasets
+
+# Deployment
+fastapi
+uvicorn
+joblib
+pyyaml
